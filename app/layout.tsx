@@ -8,16 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "NeuroDx - Clinical Decision Support for Neurological Diagnosis",
-  description:
-    "AI-powered clinical decision support system for neurological localization, etiology analysis, and differential diagnosis.",
-  keywords: [
-    "neurology",
-    "clinical decision support",
-    "diagnosis",
-    "medical AI",
-    "neurological assessment",
-  ],
+  title: "NeuroDx",
+  description: "Structured neurological reasoning support for clinicians.",
 };
 
 export const viewport: Viewport = {
